@@ -4,5 +4,6 @@ This project features a "Guess-A-Number" web game, in which a user is asked to g
 <h3> Programming Languages </h3>
 JavaScript| HTML| CSS
 
-Try it here: https://bhavnoor-kaur.github.io/Guess-a-Number-Game/
+<h3> Try It Here </h3> 
+https://bhavnoor-kaur.github.io/Guess-a-Number-Game/
 
